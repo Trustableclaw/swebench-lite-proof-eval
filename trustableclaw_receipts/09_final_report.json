@@ -1,0 +1,13 @@
+{
+  "kind": "trustableclaw.swebench.final_report_receipt",
+  "version": 1,
+  "receipt_id": "rcpt_final_report_django_10914",
+  "timestamp": "2026-05-21T12:50:00Z",
+  "index": 8,
+  "prev_hash": "252bfbe59c4e969465c6d50c78a171a26535fb992048684ce0b7323005a6897f",
+  "data": {
+    "file_path": "reports/trustableclaw_swebench_lite_one_task_pilot.md",
+    "sha256": "5b5a3d4b9f1896929c04b39555e13d79fb839c05f0e9338fa3fd8c25a8d8ab21"
+  },
+  "hash": "bdab2acac1748febb8a4dc09888f9c43a30777a5bbb7095dd6befb516ca4f8ba"
+}

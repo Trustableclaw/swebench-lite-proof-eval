@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "receipts_ok": true,
+  "ledger_ok": true,
+  "patch_hash_match": true,
+  "test_log_hash_match": true,
+  "result_hash_match": true,
+  "proof_package_ok": true
+}

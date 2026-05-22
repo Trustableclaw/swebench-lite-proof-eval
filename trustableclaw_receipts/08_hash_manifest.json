@@ -1,0 +1,13 @@
+{
+  "kind": "trustableclaw.swebench.hash_manifest_receipt",
+  "version": 1,
+  "receipt_id": "rcpt_hash_manifest_django_10914",
+  "timestamp": "2026-05-21T12:45:00Z",
+  "index": 7,
+  "prev_hash": "a9d5856b6d184e2cb14f0422148a4ad3e591f95eaeb5a57117e76be645bf8bd7",
+  "data": {
+    "file_path": "artifact_hashes.json",
+    "sha256": "781ad9522f194580909b39aef3bf99e0d7638d5c5caf8aa5773439e00351aade"
+  },
+  "hash": "252bfbe59c4e969465c6d50c78a171a26535fb992048684ce0b7323005a6897f"
+}

@@ -1,0 +1,10 @@
+{
+  "task_ids.txt": "sha256:b117be26241cbe45db97b477b4acf6a39a5abb8e265f87c1a1439e09b801d8f5",
+  "run_metadata.json": "sha256:43ac735f120686d63e447c3204bc76e78e8962f4d80201e358057db5d82e77b1",
+  "predictions.jsonl": "sha256:0682520ad72c45051829a0ee32ba5c7c648685ded7f8803b76e678b407c6453e",
+  "verification_instructions.md": "sha256:49c419719d5362a65c149e4700de248a0871aae5d7d1ecd5af5e6035c91c1093",
+  "reports/trustableclaw_swebench_lite_one_task_pilot.md": "sha256:5b5a3d4b9f1896929c04b39555e13d79fb839c05f0e9338fa3fd8c25a8d8ab21",
+  "trustableclaw_verification_results.json": "sha256:d691d04960967bb323748a1b0b9dc590312154f5471a938e04d72ccf212f3507",
+  "tamper_test_results.json": "sha256:e31497759f0ad78aab212bd7a13a14f6a806920a4623e62f8be97b71752696e4",
+  "swebench_results/test_log.txt": "sha256:6324cce7691ebd747646611401822419b862b5e63bd2806bb0c766433243845f"
+}

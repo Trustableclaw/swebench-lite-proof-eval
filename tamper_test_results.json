@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "patch_tamper_detected": true,
+  "test_log_tamper_detected": true,
+  "result_json_tamper_detected": true
+}

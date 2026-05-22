@@ -1,0 +1,15 @@
+{
+  "kind": "trustableclaw.swebench.swe_results_dir_receipt",
+  "version": 1,
+  "receipt_id": "rcpt_swe_results_dir_django_10914",
+  "timestamp": "2026-05-21T12:40:00Z",
+  "index": 6,
+  "prev_hash": "fb929a4fd160e934db17f05c92266439eedc066401b30eb4ecb0d7493b21544e",
+  "data": {
+    "dir_path": "swebench_results/",
+    "files": {
+      "test_log.txt": "sha256:6324cce7691ebd747646611401822419b862b5e63bd2806bb0c766433243845f"
+    }
+  },
+  "hash": "a9d5856b6d184e2cb14f0422148a4ad3e591f95eaeb5a57117e76be645bf8bd7"
+}

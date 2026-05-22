@@ -1,0 +1,15 @@
+{
+  "benchmark": "SWE-bench Lite",
+  "task_count": 1,
+  "agent": "OpenAI Python Agent",
+  "model": "gpt-4o",
+  "run_date": "2026-05-21",
+  "swebench_harness_version": "v1.0.0-placeholder",
+  "os": "macOS",
+  "docker_version": "v20.10.x-placeholder",
+  "dataset": "princeton-nlp/SWE-bench_Lite",
+  "operator_role": "benchmark_runner",
+  "reviewer_role": "internal_reviewer",
+  "created_by": "trustableclaw_eval_team",
+  "notes": "one-task pilot using OpenAI urllib agent"
+}

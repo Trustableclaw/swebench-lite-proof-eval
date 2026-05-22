@@ -1,0 +1,18 @@
+{
+  "kind": "trustableclaw.swebench.test_log_recorded_receipt",
+  "version": 1,
+  "receipt_id": "rcpt_test_log_recorded_django_10914",
+  "timestamp": "2026-05-21T12:15:00Z",
+  "index": 2,
+  "prev_hash": "8b25dfb460e4421901f115b3d797fff51d35a66182030894d8a72a838af0c776",
+  "data": {
+    "test_log_file": "swebench_results/test_log.txt",
+    "test_log_file_sha256": "6324cce7691ebd747646611401822419b862b5e63bd2806bb0c766433243845f",
+    "tests_run": 128,
+    "tests_passed": 128,
+    "status": "OK",
+    "duration": "11.252s",
+    "notes": "All 128 unit tests passed cleanly inside the local environment."
+  },
+  "hash": "75be810fe4a52563163aac3d253d8498a0fa56ecbde5f5befc3b2aade6ea5c39"
+}

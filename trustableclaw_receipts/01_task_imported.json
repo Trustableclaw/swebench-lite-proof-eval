@@ -1,0 +1,15 @@
+{
+  "kind": "trustableclaw.swebench.task_imported_receipt",
+  "version": 1,
+  "receipt_id": "rcpt_task_imported_django_10914",
+  "timestamp": "2026-05-21T11:45:00Z",
+  "index": 0,
+  "prev_hash": "",
+  "data": {
+    "imported_file": "task_ids.txt",
+    "imported_file_sha256": "b117be26241cbe45db97b477b4acf6a39a5abb8e265f87c1a1439e09b801d8f5",
+    "source_dataset": "princeton-nlp/SWE-bench_Lite",
+    "notes": "Task django__django-10914 imported into evaluation workspace successfully."
+  },
+  "hash": "7dedc82ddee7219fcca6b3cf7f69ff3b6a2f4598769c2e3c34aa85db0ce771c2"
+}

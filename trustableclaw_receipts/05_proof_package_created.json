@@ -1,0 +1,14 @@
+{
+  "kind": "trustableclaw.swebench.proof_package_created_receipt",
+  "version": 1,
+  "receipt_id": "rcpt_proof_package_created_django_10914",
+  "timestamp": "2026-05-21T12:30:00Z",
+  "index": 4,
+  "prev_hash": "e6f72482bcaa079bff789e27a5cf8fc6d60136c572340909333d4e6abf6a6fdd",
+  "data": {
+    "proof_package_path": "proof_packages/public/",
+    "manifest_sha256": "781ad9522f194580909b39aef3bf99e0d7638d5c5caf8aa5773439e00351aade",
+    "notes": "Tamper-proof package successfully bundled."
+  },
+  "hash": "65e81fb97a89f98334398fa39cd7c72572d6da7b5f616e07843b48958642e8b6"
+}

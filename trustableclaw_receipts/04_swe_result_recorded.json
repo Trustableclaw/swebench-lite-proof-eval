@@ -1,0 +1,15 @@
+{
+  "kind": "trustableclaw.swebench.swe_result_recorded_receipt",
+  "version": 1,
+  "receipt_id": "rcpt_swe_result_recorded_django_10914",
+  "timestamp": "2026-05-21T12:20:00Z",
+  "index": 3,
+  "prev_hash": "75be810fe4a52563163aac3d253d8498a0fa56ecbde5f5befc3b2aade6ea5c39",
+  "data": {
+    "outcome": "PASSED",
+    "resolved": true,
+    "validation_command": "PYTHONPATH=. python3 tests/runtests.py --settings=test_sqlite file_storage",
+    "notes": "Harness result recorded: issue successfully resolved."
+  },
+  "hash": "e6f72482bcaa079bff789e27a5cf8fc6d60136c572340909333d4e6abf6a6fdd"
+}

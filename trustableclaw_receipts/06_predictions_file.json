@@ -1,0 +1,13 @@
+{
+  "kind": "trustableclaw.swebench.predictions_file_receipt",
+  "version": 1,
+  "receipt_id": "rcpt_predictions_file_django_10914",
+  "timestamp": "2026-05-21T12:35:00Z",
+  "index": 5,
+  "prev_hash": "65e81fb97a89f98334398fa39cd7c72572d6da7b5f616e07843b48958642e8b6",
+  "data": {
+    "file_path": "predictions.jsonl",
+    "sha256": "0682520ad72c45051829a0ee32ba5c7c648685ded7f8803b76e678b407c6453e"
+  },
+  "hash": "fb929a4fd160e934db17f05c92266439eedc066401b30eb4ecb0d7493b21544e"
+}
